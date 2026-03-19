@@ -15,7 +15,7 @@
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I enjoy connecting with different people</b> so if you want to say hi,<b> I'd be happy to connect further!</b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></em>
 <br>
 <a href="https://www.linkedin.com/in/carlos-connex/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
-<a href="mailto: ccarlos.connex@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
+<a href="mailto: carlos.connex@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
 <a href="https://discord.gg/z0cay_"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/></a>
 </p> 
 <br />  
