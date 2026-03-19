@@ -1,10 +1,10 @@
-<p align="center"><img src="https://github.com/Fennecva/Fennecva/blob/main/Backdrop_CVpng.png" width="500"></p>
+<p align="center"><img src="https://github.com/Carlosconnex/Carlosconnex/blob/main/Backdrop_CVpng.png" width="500"></p>
 <p align="center">
-🔭 I’m currently working on my CompTIA Certifications: A+, Network +, Linux+ ✨
+🔭 I’m currently working on my CompTIA Certifications: Security+, Network +, Linux+ 🖥️
 <br>
-🌱 I’m also picking up a bit of Software Version Control and Network Client OS (Azure Directory, Deployments, etc.) ✨
+🌱 Exploring Python, HTML, CSS + Software Version Control & Network Client OS/MDM (Azure Directory, AD/JAMF, etc.) 👨‍💻
 <br>
-⚡ For fun, I enjoy light hiking, spending time with my wife and pups, and will be starting up a Homelab for self hosting purposes ✨
+⚡ For fun, I enjoy light hiking, crafting, spending time with my wife and pups, and will be spinning up a Homelab for self hosting purposes ✨
 </p>
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">Tech Skills & Competency <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center"><a href="https://certification.testout.com/verifycert/6-1C6-VX535F"><img src="https://img.shields.io/badge/CompTIA-PC_Pro-red"></a>
